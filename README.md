@@ -1,99 +1,91 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Anurag%20Goutam&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
+# 👋 Hi, I'm Anurag Goutam  
+**AI Practitioner | ML Engineer | GenAI Developer**
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=9333EA&center=true&vCenter=true&width=600&lines=AI+Practitioner;Machine+Learning+Engineer;GenAI+Developer;Building+Intelligent+Systems" />
-</h2>
+I build intelligent systems that solve real-world problems using **Machine Learning, NLP, and Generative AI**.  
+Currently pursuing **MCA (2026)** with a strong focus on **AI-driven products, data pipelines, and full-stack ML systems**.
 
 ---
 
-## 👋 About Me  
-
-I am **Anurag Goutam**, an **AI Practitioner** who builds intelligent systems using **Machine Learning, NLP, and Generative AI**.  
-I love transforming **data into real-world AI products** that solve practical problems.
-
-🎓 MCA @ Savitribai Phule Pune University  
-🏆 Best Final Year Project – **A4KIOSK**
+## 🧠 What I Do
+- Build **ML & NLP models** for real-world applications  
+- Develop **GenAI & LangChain-based systems**  
+- Integrate **AI into full-stack web apps**  
+- Work with **databases, APIs, and analytics**
 
 ---
 
-## 🧠 What I Do  
-- Build **ML & NLP models**  
-- Develop **GenAI + LangChain systems**  
-- Create **AI-powered web apps**  
-- Design **data pipelines & APIs**
+## 🛠️ Tech Stack
+
+### Programming
+`Python` · `SQL` · `JavaScript` · `Django`
+
+### AI / ML
+`Machine Learning` · `NLP` · `Generative AI` · `LangChain` · `LangGraph`  
+`Vector Embeddings` · `Semantic Search`
+
+### Tools
+`Power BI` · `Excel` · `Git` · `Jupyter Notebook`  
+`Docker` · `Jenkins` · `SonarQube`
 
 ---
 
-## ⚙️ Tech Stack  
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,js,mysql,mongodb,git,docker,jenkins,html,css" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-9333EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-6366F1?style=for-the-badge"/>
-</p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🖨️ **A4KIOSK**  
-> Automated Print Vending Platform  
-- 900+ print jobs  
-- 400+ users  
+### 🖨️ **A4KIOSK**
+Automated Print Vending Platform  
+**Tech:** Django, CUPS, AWS, Computer Vision, Tailwind  
+- 900+ print jobs processed  
+- 400+ active users  
 - 99% success rate  
-- Reduced manual work by **85%**
+- Reduced manual handling by **85%**
 
 ---
 
-### 💬 **Sentiment Analyzer**  
-> NLP system for e-commerce reviews  
-- 10,000+ reviews analyzed  
-- 88–92% accuracy  
-- Real-time predictions  
+### 💬 **E-commerce Review Sentiment Analyzer**
+NLP-based customer review classification system  
+**Tech:** NLP, Python, Next.js, MongoDB  
+- Analyzed **10,000+ reviews**  
+- **88–92% accuracy**  
+- Real-time sentiment prediction
 
 ---
 
-### 📊 **TaxQueryAI**  
-> Natural Language to SQL AI  
-- Ask questions → get SQL results  
-- Boosted data query efficiency by **25%**  
+### 📊 **TaxQueryAI**
+Natural Language to SQL AI system  
+**Tech:** LangChain, NLP, Python, Next.js, MySQL  
+- Converts user questions into SQL queries  
+- Boosted query efficiency by **25%**  
+- Improved data understanding by **30%**
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-</p>
+### **Full Stack & Machine Learning Intern — Shakham Inc.**
+*(Mar 2025 – May 2025)*  
+- Built production-ready Django web apps  
+- Improved ML data quality by **25%**  
+- Integrated ML models into backend systems  
+- Reduced manual analysis by **20%**
 
 ---
 
-## 📫 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/anurag-kumar-goutam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:anuraggoutam133@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+## 🎓 Education
+- **Master of Computer Applications (MCA)** – SPPU *(CGPA: 9.0 / 10)*  
+- **Bachelor of Science** – DAVV *(CGPA: 8.0 / 10)*  
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333EA,100:4F46E5&height=120&section=footer"/>
-</p>
+## 🏆 Achievements
+- **IBM Data Science Certificate (2025)**  
+- **Best Final Year Project – A4KIOSK**
+
+---
+
+## 📫 Connect With Me
+- 📧 **anuraggoutam133@gmail.com**  
+- 🔗 **linkedin.com/in/anurag-kumar-goutam**
+
+---
+
+> *"I turn data into intelligence and intelligence into products."*
