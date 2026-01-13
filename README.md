@@ -64,19 +64,19 @@ I love transforming **data into real-world AI products** that solve practical pr
 ### 📊 **TaxQueryAI**  
 > Natural Language to SQL AI  
 - Ask questions → get SQL results  
-- Boosted data query efficiency by **25%**
+- Boosted data query efficiency by **25%**  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnUrAg13ui&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnUrAg13ui&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnUrAg13ui&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
